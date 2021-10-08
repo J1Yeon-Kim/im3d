@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="22e87cdf-c7ce-4913-bc83-54ad37a79b9a" name="gpu05_docker">
+        <fileTransfer accessType="SFTP" host="gpu05" port="7001" sshConfigId="38508cbd-c092-45d5-9dce-81c7c341a7f2" sshConfig="root@gpu05:7001 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
